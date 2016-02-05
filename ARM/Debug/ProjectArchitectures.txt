@@ -1,0 +1,1 @@
+C:\sourcecode\bt_deurell\BluetoothLE\BluetoothLE.vcxproj;arm
